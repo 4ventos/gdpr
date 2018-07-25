@@ -4,6 +4,8 @@
 
 Utilizamos *browser cookies* e aderimos à política "Do Not Track". Ao usar este website, aceita a nossa Política de Privacidade, que contém informação sobre ambos.
 
+Este site utiliza cookies para lhe proporcionar uma melhor experiência de utilização. Saiba mais sobre os cookies que utilizamos aqui.
+
 ## Política de Cookies
 
 ### Política de Privacidade de Cookies
